@@ -7,3 +7,8 @@
 [03-May-2024 14:19:04 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'oceanwp_child_enqueue_scripts' not found or invalid function name in C:\MAMP\htdocs\meditsoutenance\wp-includes\class-wp-hook.php on line 324
 [03-May-2024 14:19:08 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'oceanwp_child_enqueue_scripts' not found or invalid function name in C:\MAMP\htdocs\meditsoutenance\wp-includes\class-wp-hook.php on line 324
 [07-May-2024 18:10:19 UTC] PHP Fatal error:  Cannot redeclare contact_btn() (previously declared in C:\MAMP\htdocs\meditsoutenance\wp-content\themes\oceanwp-child-theme-master\functions.php:53) in C:\MAMP\htdocs\meditsoutenance\wp-content\themes\oceanwp-child-theme-master\header.php on line 91
+[13-May-2024 06:59:12 UTC] PHP Notice:  Array to string conversion in C:\MAMP\htdocs\meditsoutenance\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[13-May-2024 07:03:35 UTC] PHP Notice:  Array to string conversion in C:\MAMP\htdocs\meditsoutenance\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[13-May-2024 07:05:28 UTC] PHP Notice:  Array to string conversion in C:\MAMP\htdocs\meditsoutenance\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[13-May-2024 07:05:41 UTC] PHP Notice:  Array to string conversion in C:\MAMP\htdocs\meditsoutenance\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
+[13-May-2024 07:11:24 UTC] PHP Notice:  Array to string conversion in C:\MAMP\htdocs\meditsoutenance\wp-content\themes\oceanwp-child-theme-master\header.php on line 66
